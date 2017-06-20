@@ -2,6 +2,7 @@
 
 Incapsulation of mouse and time wathchers to hide popup controls or windows on web page
 
+[![Npm package](https://img.shields.io/npm/v/popup-dispatcher.svg?style=flat)](https://npmjs.com/package/popup-dispatcher)
 [![Travis build status](http://img.shields.io/travis/oklas/popup-dispatcher.svg?style=flat)](https://travis-ci.org/oklas/popup-dispatcher)
 [![Code Climate](https://codeclimate.com/github/oklas/popup-dispatcher/badges/gpa.svg)](https://codeclimate.com/github/oklas/popup-dispatcher)
 [![Test Coverage](https://img.shields.io/codecov/c/github/oklas/popup-dispatcher.svg)](https://codecov.io/gh/oklas/popup-dispatcher)
